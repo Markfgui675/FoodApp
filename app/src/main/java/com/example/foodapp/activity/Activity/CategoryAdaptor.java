@@ -13,6 +13,7 @@ import androidx.recyclerview.widget.RecyclerView;
 
 import com.bumptech.glide.Glide;
 import com.example.foodapp.R;
+import com.example.foodapp.activity.Domain.CategoryDomain;
 
 import java.util.ArrayList;
 

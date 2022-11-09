@@ -1,4 +1,4 @@
-package com.example.foodapp.activity.Activity;
+package com.example.foodapp.activity.Domain;
 
 import java.util.Locale;
 
